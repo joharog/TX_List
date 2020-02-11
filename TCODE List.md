@@ -11,5 +11,6 @@ SM04 : Kick user\
 SM30 : Maintenance view\
 SE71 : SAPscript\
 SE93 : Create/update transactions\
-/h   : Debug in some point
-/nTX : Open TX a new windows
+SE91 : Create a class message (stored in T100)\
+/h   : Debug in some point\
+/nTX : Open TX a new windows\
