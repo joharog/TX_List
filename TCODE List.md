@@ -12,8 +12,8 @@ SM30 : Maintenance view\
 SE71 : SAPscript\
 SE93 : Create/update transactions\
 SE91 : Create a class message (stored in T100)\
-
-SMARTFORMS:
+ST22 : Dump logs\
+SMARTFORMS:           \
 SE78 : Upload bitmap imagenes
 
 /h   : Debug in some point\
