@@ -18,3 +18,4 @@ SE78 : Upload bitmap imagenes
 
 /h   : Debug in some point\
 /nTX : Open TX a new windows\
+OAER : Business Document Navigator\ 
