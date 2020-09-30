@@ -19,3 +19,5 @@ SE78 : Upload bitmap imagenes
 /h   : Debug in some point\
 /nTX : Open TX a new windows\
 OAER : Business Document Navigator\ 
+
+FM to skip authorization: RS_HDSYS_CALL_TC_VARIANT\
