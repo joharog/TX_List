@@ -17,7 +17,7 @@ SMARTFORMS:           \
 SE78 : Upload bitmap imagenes
 
 SE20 > Enhancements Implementations : Modify Enhancements         EX: ZVALIDA_PEDIDO_MIRO=========== 
-
+SE38 > RSCPSETEDITOR > Uncheck MS Word editor
 /h   : Debug in some point\
 /nTX : Open TX a new windows\
 OAER : Business Document Navigator\
