@@ -23,5 +23,6 @@ SE38 > RSCPSETEDITOR > Uncheck MS Word editor\
 /nTX : Open TX a new windows\
 OAER : Business Document Navigator\
 SE38 -> RSTXSCRP : Export/Import SAPscripts\
+SE38 -> RBDSAPSEGMENTEDIT : Edit IDOC Segments\
 
 FM to skip authorization: RS_HDSYS_CALL_TC_VARIANT\
