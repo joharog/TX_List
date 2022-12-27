@@ -29,3 +29,8 @@ OAER : Business Document Navigator \
 Skip authorization:  \
 FM: RS_HDSYS_CALL_TC_VARIANT \
 OB08: S_BCE_68000174 \
+ \
+ \
+ Web Services \
+SICF: Update / Search services \
+
