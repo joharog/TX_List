@@ -8,6 +8,7 @@ SO10 : Text changer \
 SE38 -> RSTXSCRP : Export/Import SAPscripts \
 SE38 -> RSTXTRAN (Transport text) \
 SE38 -> RDDIT076 (Free orders) \
+SE38 -> RBDSAPSEGMENTEDIT (Enable Segment WE31 Edit) \
 OPPQ : Update Days in Society to TX Standards \
 SM04 : Kick user \
 SM30 : Maintenance view \
