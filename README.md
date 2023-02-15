@@ -17,6 +17,7 @@ SE93 : Create/update transactions \
 SE91 : Create a class message (stored in T100) \
 ST22 : Dump logs \
 SM04: Disconect user \
+ST05: Activate Trace General \
  \
 Smartforms / SAPscripts: \
 SE78 : Upload bitmap imagenes \
@@ -34,4 +35,5 @@ OB08: S_BCE_68000174 \
  \
  Web Services \
 SICF: Update / Search services \
+SRT_UTIL: Activate Trace Log  \
 
