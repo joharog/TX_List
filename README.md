@@ -36,4 +36,5 @@ OB08: S_BCE_68000174 \
  Web Services \
 SICF: Update / Search services \
 SRT_UTIL: Activate Trace Log  \
+BD87: Re-process IDoc (With local user)\
 
