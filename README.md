@@ -38,7 +38,7 @@ SICF: Update / Search services \
 SRT_UTIL: Activate Trace Log  \
 BD87: Re-process IDoc (With local user)\
 
-Maintenance View Dump - Memory for screen load is used up
-RZ11: ztta/dynpro_area (Default 800000, Recommend 1000000, Tofix 1200000)
-https://me.sap.com/notes/0002665514 -> https://me.sap.com/notes/167229
+Maintenance View Dump - Memory for screen load is used up\
+RZ11: ztta/dynpro_area (Default 800000, Recommend 1000000, Tofix 1200000)\
+https://me.sap.com/notes/0002665514 -> https://me.sap.com/notes/167229\
 
